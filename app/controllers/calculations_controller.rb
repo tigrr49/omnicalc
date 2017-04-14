@@ -15,7 +15,7 @@ class CalculationsController < ApplicationController
 
     @character_count_with_spaces = "Replace this string with your answer."
 
-      # added comment
+      # added comment - test changing text of comment
 
     @character_count_without_spaces = "Replace this string with your answer."
 
